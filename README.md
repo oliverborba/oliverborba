@@ -5,7 +5,7 @@
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera
 - 🎓 Pós Graduado em Desenvolvimento Mobile pela Unyleya
 - 👩🏻‍🎓 Estudante de Pós graduação em Ciência de dados pela Faculdade Focus
-- 📚 Estudos com foco em desenvolvimento Android e Python para dados
+- 📚 Estudos desenvolvimento Android e Python para dados
 
 <a href="https://github.com/oliverborba">
   <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=oliverborba&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
