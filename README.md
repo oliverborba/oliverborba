@@ -1,6 +1,6 @@
 <h2>Olá, me chamo Lucas Borba.</h2>
 
-<p> <samp> Entusiasta em tecnologia buscando a transição de carreira. </p> 
+<p> <samp> Entusiasta de tecnologia buscando a transição de carreira. </p> 
 
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera
 - 🎓 Pós Graduado em Desenvolvimento Mobile pela Unyleya
