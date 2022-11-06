@@ -1,4 +1,4 @@
-:octocat: Me chamo Lucas Borba.
+<h2>:octocat: Me chamo Lucas Borba.</h2>
 
 <p> <samp> Entusiasta em tecnologia buscando a transição de carreira. </p> 
 
