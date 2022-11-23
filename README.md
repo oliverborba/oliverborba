@@ -1,9 +1,5 @@
-<h2>Olá, me chamo Lucas Borba.</h2>
+<h2>Olá, me chamo Lucas Borba.</h2>  
 
-
-
-  
-  # 💫 About Me:
 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Unyleya<br>👩🏻‍🎓 Estudante de Pós graduação em Ciência de dados pela Faculdade Focus<br>📚 Estudos desenvolvimento Android e Python para dados
 
 
