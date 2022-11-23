@@ -1,28 +1,23 @@
 <h2>Olá, me chamo Lucas Borba.</h2>
 
-<p> <samp> Entusiasta de tecnologia buscando a transição de carreira. </p> 
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera
-- 🎓 Pós Graduado em Desenvolvimento Mobile pela Unyleya
-- 👩🏻‍🎓 Estudante de Pós graduação em Ciência de dados pela Faculdade Focus
-- 📚 Estudos desenvolvimento Android e Python para dados
 
-<a href="https://github.com/oliverborba">
-  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=oliverborba&count_private=true&show_icons=true&theme=omni&hide_border=true&include_all_commits=true&layout=compact&)" />
-</a>
+  
+  # 💫 About Me:
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Unyleya<br>👩🏻‍🎓 Estudante de Pós graduação em Ciência de dados pela Faculdade Focus<br>📚 Estudos desenvolvimento Android e Python para dados
 
-<a href="https://github.com/oliverborba">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverborba&langs_count=8&layout=compact&theme=omni&hide_border=true&include_all_commits=true&count_private=true&)" />
-</a>
 
-<br>
-<br>
-<a href="https://www.linkedin.com/in/lucas-oliveira-de-borba-69074b50/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/oliverborba/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <br>
-  <div align="left" valign="top"><br>
-  <img align="center" alt="Kotlin" height="35" width="45" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg">
-  <img align="center" alt="Java" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  </div><br>
-<div align="center">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oliverborba/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-oliveira-de-borba/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@oliverborba) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/lucas_oliveira_0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oliverborba) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oliverborba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oliverborba&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliverborba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=oliverborba&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
