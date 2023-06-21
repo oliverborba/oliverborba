@@ -1,6 +1,6 @@
 
 # Olá, me chamo Lucas Borba
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Estudante de Pós graduação em Ciência de dados pela Faculdade Focus<br>👩🏻‍🎓 Estudante de Pós graduação em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego<br>📚 Estudos desenvolvimento Android e Python para dados
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Pós Graduado em Ciência de dados pela Faculdade Focus<br>👩🏻‍🎓 Pós Graduado em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego<br>📚 Estudos desenvolvimento Android e Python para dados
 
 
 ## 🌐 Socials:
