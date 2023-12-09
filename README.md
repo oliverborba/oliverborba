@@ -1,6 +1,6 @@
 
 # Olá, Sou Lucas Borba
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Graduando em Ciência da Computação<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Pós Graduado em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego<br>👩🏻‍🎓 Pós Graduando em Desenvolvimento de Jogos Digitais pelo Instituto Líbano<br>📚 Atualmente estudando Unity e C Sharp
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Graduando em Ciência da Computação<br>🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Pós Graduado em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego<br>👩🏻‍🎓 Pós Graduando em Desenvolvimento de Jogos Digitais pelo Instituto Líbano<br>📚 
 
 
 ## 🌐 Socials:
