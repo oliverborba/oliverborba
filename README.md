@@ -1,6 +1,6 @@
 
 # Olá, Sou Lucas Borba
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Graduando em Ciência da Computação<br>👩🏻‍🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br><br>👩🏻‍🎓 Pós Graduando em Desenvolvimento de Jogos Digitais pelo Instituto Líbano<br>📚 
+🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>🎓 Graduando em Ciência da Computação<br>👩🏻‍🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Pós Graduando em Desenvolvimento de Jogos Digitais pelo Instituto Líbano<br>📚 
 
 
 ## 🌐 Socials:
