@@ -1,6 +1,6 @@
 
 # Olá, Sou Lucas Borba
-🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera<br>👩🏻‍🎓 Pós Graduado em Desenvolvimento Mobile pela Faculdade Unyleya<br>👩🏻‍🎓 Pós Graduado em Desenvolvimento de Jogos Digitais pelo Instituto Líbano<br>👩🏻‍🎓 Pós Graduado em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego
+🎓 Tecnologo em Análise e Desenvolvimento de Sistemas - Anhanguera<br>👩🏻‍🎓 Pós em Desenvolvimento Mobile - Faculdade Unyleya<br>👩🏻‍🎓 Pós em Desenvolvimento de Jogos Digitais - Instituto Líbano<br>👩🏻‍🎓 Pós em Engenharia de Software e Gestão de Projetos - Faculdade Estratego<br>👩🏻‍🎓Cursando Tecnologia em Design de games - Uninter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-oliveira-de-borba/) 
