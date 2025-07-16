@@ -1,6 +1,6 @@
 
 # Olá, Sou Lucas Borba
-Desenvolvedor em formação, buscando constantemente novos conhecimentos.<br>
+Desenvolvedor em formação, buscando constantemente ampliar meus conhecimentos.<br>
 Atualmente estou focado em Node.js e Angular, com o objetivo de transformar cada aprendizado em projetos reais e significativos ao longo da minha jornada na área de desenvolvimento de software.
 
 🎓 Tecnologo em Análise e Desenvolvimento de Sistemas - Anhanguera<br>
