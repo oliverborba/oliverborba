@@ -10,9 +10,7 @@
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** – Anhanguera  
 - **Pós-graduação em Engenharia de Software e Gestão de Projetos** – Faculdade Estratego  
-- **Pós-graduação em Jogos Digitais** – Faculdade Líbano  
 - **Pós-graduação em Ciência de Dados** – Faculdade Focus  
-- **Pós-graduação em Desenvolvimento Mobile** – Unyleya  
 - **MBA em Inteligência Artificial para Negócios** – Exame / Saint Paul *(em andamento)*  
 - **Tecnologia em Design de Games** – UNINTER *(em andamento)*  
 
