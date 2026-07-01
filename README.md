@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o **Lucas Borba**
 
-🎯 **Desenvolvedor em formação**, apaixonado por tecnologia, inovação e criação de experiências digitais. Hoje focando 100% no aprendizado em Python
+🎯 **Desenvolvedor em formação**, apaixonado por tecnologia, inovação e criação de experiências digitais.
 
 
 ---
